@@ -34,4 +34,4 @@ for(var i=0; i<arr1.length; i=i+1){
   play(currentQuestion.question,currentQuestion.answer);
 }
 
-console.log("YAY!\n Final Score:" + score)
+console.log("YAY!\n Final Score is:" + score)
